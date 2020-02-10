@@ -2,7 +2,7 @@
 
 # Summary
 
-This is a newly introduced Turkish dependency treebank in the Universal Dependencies (UD) annotation style. The BOUN Treebank is created by the [TABILAB](http://http://tabilab.cmpe.boun.edu.tr/) and supported by the Scientific and Technological Research Council of Turkey (TÜBITAK) under grant number 117E971. 
+This is a newly introduced Turkish dependency treebank in the Universal Dependencies (UD) annotation style. The BOUN Treebank is created by the [TABILAB](http://http://tabilab.cmpe.boun.edu.tr/) and supported by the Scientific and Technological Research Council of Turkey (TÜBİTAK) under grant number 117E971. 
 
 The BOUN Treebank includes a total of 9,757 manually annotated sentences from various topics including biographical texts, national newspapers, instructional texts, popular culture articles, and essays. 
 
