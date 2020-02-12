@@ -14,5 +14,5 @@ The main reference for this treebank:
 @article{turk2020resources,
          author ={Utku Türk, Furkan Atmaca, Şaziye Betül Özateş, Gözde Berk, Seyyit Talha Bedir, Abdullatif Köksal, Balkız Öztürk, Tunga Güngör, Arzucan Özgür},
          title ={Resources for Turkish Dependency Parsing: Introducing the BOUN Treebank and the BoAT Annotation Tool},
-         journal ={Language Resources and Evaluation Journal (Under Review)}}
+         journal ={Under Review}}
 ```
