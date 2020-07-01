@@ -8,11 +8,22 @@ The BOUN Treebank includes a total of 9,757 manually annotated sentences from va
 
 # Reference
 
-The main reference for this treebank:
-
+For now, you can use arXiv reference for this treebank:
 ```
-@article{turk2020resources,
-         author ={Utku Türk, Furkan Atmaca, Şaziye Betül Özateş, Gözde Berk, Seyyit Talha Bedir, Abdullatif Köksal, Balkız Öztürk, Tunga Güngör, Arzucan Özgür},
-         title ={Resources for Turkish Dependency Parsing: Introducing the BOUN Treebank and the BoAT Annotation Tool},
-         journal ={Under Review}}
+@misc{trk2020resources,
+    title={Resources for Turkish Dependency Parsing: Introducing the BOUN Treebank and the BoAT Annotation Tool},
+    author={Utku T{\”{u}}rk and 
+    Furkan Atmaca and 
+    {\c{S}aziye Bet{\"{u}}l {\"{O}}zate{\c{s}} and 
+    G{\"{o}}zde Berk and 
+    Seyyit Talha Bedir and 
+    Abdullatif K{\"{o}}ksal and 
+    Balk{\i}z {\"{O}}zt{\"{u}}rk Ba{\c{s}}aran and 
+    Tunga G{\"{u}}ng{\"{o}}r and 
+    Arzucan {\"{O}}zg{\"{u}}r},
+    year={2020},
+    eprint={2002.10416},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
 ```
